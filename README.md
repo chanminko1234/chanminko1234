@@ -1,6 +1,6 @@
 # 🔳 NODE: CHAN MIN KO [ARCHITECT]
 
-[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://github.com/chanminko1234)
+[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://sql-stream.up.railway.app/)
 [![Node Clearance](https://img.shields.io/badge/clearance-tier--1-7c3aed.svg)](https://github.com/chanminko1234)
 [![Dev Cluster](https://img.shields.io/badge/discord-join--cluster-5865f2.svg)](https://discord.gg/qwsG7jYw)
 
@@ -11,7 +11,7 @@
 ## 🚀 Mission Briefing
 I am a Lead Architect and Systems Engineer dedicated to building high-fidelity infrastructure and mission-critical applications. My work focuses on zero-downtime database migrations, real-time telemetry, and premium glass-morphic interface design.
 
-- 🔭 **Current Directive**: Hardening the SQL-STREAM migration ecosystem.
+- 🔭 **Current Directive**: Hardening the [SQL-STREAM](https://sql-stream.up.railway.app/) migration ecosystem.
 - ⚡ **Core Philosophy**: Absolute observability through Engineering Node aesthetics.
 - 💬 **Support Hub**: Active in the [Founding Engineering Cluster](https://discord.gg/qwsG7jYw).
 
@@ -32,7 +32,7 @@ I am a Lead Architect and Systems Engineer dedicated to building high-fidelity i
 
 ## 🛰️ Active Infrastructure
 
-### [SQL-STREAM](https://github.com/chanminko1234/converter)
+### [SQL-STREAM](https://sql-stream.up.railway.app/)
 *Premium Database Migration Hub*
 - Real-time node-to-node synchronization.
 - AI-Powered index advising and PII masking.
@@ -47,9 +47,9 @@ I am a Lead Architect and Systems Engineer dedicated to building high-fidelity i
 
 ## 💬 Connect to the Cluster
 
+- **Live Node**: [sql-stream.up.railway.app](https://sql-stream.up.railway.app/)
 - **Engineering Node**: [chanminko1234](https://github.com/chanminko1234)
 - **Dev Cluster**: [Discord Invite](https://discord.gg/qwsG7jYw)
-- **Signal**: [Support Hub](https://github.com/chanminko1234/converter/support)
 
 ---
 
