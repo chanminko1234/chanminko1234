@@ -66,23 +66,26 @@ I am a passionate **Lead Software Engineer and Mobile Specialist** crafting high
 
 ---
 
-## Tech Stack & Skills
+## Tech Stack & Core Languages
 
-```
-  Mobile       │ React Native • iOS (Swift / SwiftUI / WidgetKit) • Android (Java / Kotlin / AppWidgets)
-  Frontend     │ TypeScript • JavaScript (ES6+) • HTML5 • Modern CSS / Glassmorphism
-  Backend      │ PHP 8.x • Laravel • PostgreSQL • MySQL • Redis • RESTful APIs
-  State & Ops  │ Zustand • MMKV • Git • GitHub Actions • Docker • Agile Workflow
-```
+| Category | Primary Technologies & Tooling |
+| :--- | :--- |
+| **Mobile Engineering** | React Native • iOS (Swift / SwiftUI / WidgetKit) • Android (Java / Kotlin / AppWidgets) |
+| **Frontend & Systems** | TypeScript • JavaScript (ES6+) • Modern HTML5 & CSS3 • Glassmorphic UI |
+| **Backend & Databases** | PHP 8.x • Laravel 11 • PostgreSQL • MySQL • Redis • RESTful APIs |
+| **Architecture & State** | Offline-First MMKV • Zustand • Clean Code Architecture • Event-Driven Async |
+| **DevOps & Workflow** | Git • GitHub Actions • Docker • Xcode • Android Studio • Gradle |
 
----
+<br />
 
-## GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chanminko1234&show_icons=true&theme=tokyonight&count_private=true" alt="Chan Min Ko's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanminko1234&layout=compact&theme=tokyonight&hide=html" alt="Most Used Languages" width="48%" />
-</p>
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 
 ---
 
