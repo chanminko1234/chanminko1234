@@ -31,11 +31,14 @@ const chanminko = {
 
 ---
 
-## GitHub Trophy & Achievements
+## Engineering Highlights & Specializations
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=chanminko1234&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" alt="Chan Min Ko's GitHub Trophies" />
-</p>
+[![React Native](https://img.shields.io/badge/React_Native-Cross_Platform-0EA5E9?style=for-the-badge&logo=react&logoColor=white)](#)
+[![iOS SwiftUI](https://img.shields.io/badge/iOS-SwiftUI_%26_WidgetKit-000000?style=for-the-badge&logo=swift&logoColor=white)](#)
+[![Android Java](https://img.shields.io/badge/Android-Java_%26_AppWidgets-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
+[![Laravel PHP](https://img.shields.io/badge/Laravel-Backend_Engine-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Type_Safe-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![Offline First](https://img.shields.io/badge/Architecture-Offline_First_MMKV-10B981?style=for-the-badge&logo=sqlite&logoColor=white)](#)
 
 ---
 
@@ -74,14 +77,10 @@ I am a passionate **Lead Software Engineer and Mobile Specialist** crafting high
 
 ---
 
-## GitHub Stats & Live Streak
+## GitHub Analytics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=chanminko1234&show_icons=true&theme=tokyonight&count_private=true" alt="Chan Min Ko's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanminko1234&theme=tokyonight" alt="GitHub Streak Stats" width="48%" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanminko1234&layout=compact&theme=tokyonight&hide=html" alt="Most Used Languages" width="48%" />
 </p>
 
