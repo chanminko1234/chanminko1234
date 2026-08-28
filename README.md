@@ -1,56 +1,63 @@
-# 🔳 NODE: CHAN MIN KO [ARCHITECT]
+# 👋 Hi, I'm Chan Min Ko
 
-[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://sql-stream.up.railway.app/)
-[![Node Clearance](https://img.shields.io/badge/clearance-tier--1-7c3aed.svg)](https://github.com/chanminko1234)
-[![Dev Cluster](https://img.shields.io/badge/discord-join--cluster-5865f2.svg)](https://discord.gg/qwsG7jYw)
+### **Founder & Lead Software Engineer** | 📍 Thailand
 
-> "Turning complex structural chaos into seamless engineering flow."
-
----
-
-## 🚀 Mission Briefing
-I am a Lead Architect and Systems Engineer dedicated to building high-fidelity infrastructure and mission-critical applications. My work focuses on zero-downtime database migrations, real-time telemetry, and premium glass-morphic interface design.
-
-- 🔭 **Current Directive**: Hardening the [SQL-STREAM](https://sql-stream.up.railway.app/) migration ecosystem.
-- ⚡ **Core Philosophy**: Absolute observability through Engineering Node aesthetics.
-- 💬 **Support Hub**: Active in the [Founding Engineering Cluster](https://discord.gg/qwsG7jYw).
+[![GitHub Followers](https://img.shields.io/github/followers/chanminko1234?style=social)](https://github.com/chanminko1234)
+[![Email](https://img.shields.io/badge/Email-chanminko10297%40gmail.com-0EA5E9?style=flat&logo=gmail&logoColor=white)](mailto:chanminko10297@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Thailand-D97706?style=flat&logo=googlemaps&logoColor=white)](#)
 
 ---
 
-## 🛠️ Core Technologies Engine
+## 🌟 About Me
 
-### 🔳 Backend Core
-`PHP 8.3` • `Laravel 11` • `PostgreSQL` • `MySQL` • `Redis` • `Python`
+I am a passionate **Lead Software Engineer and Mobile Specialist** crafting high-performance, user-centric mobile applications and web ecosystems. My expertise spans **React Native**, **Native Android (Java/Kotlin)**, **iOS (Swift/SwiftUI)**, **TypeScript**, and **Laravel/PHP**.
 
-### 🔳 Frontend Infrastructure
-`React` • `TypeScript` • `Inertia.js` • `TailwindCSS` • `Framer Motion`
-
-### 🔳 Enterprise Operations
-`Docker` • `Laravel Horizon` • `AI-Driven Transpilation` • `Neural Engine Logic`
+- 📱 **Mobile Engineering**: Building high-fidelity React Native applications with native iOS & Android AppWidget integrations.
+- ⚡ **Performance & Architecture**: Designing offline-first architectures, low-latency background sync engines, and 60fps native UI.
+- 📍 **Based In**: Thailand
+- 💬 **Ask me about**: React Native, Native Widgets, Offline State Sync, and Health/Fitness Apps.
 
 ---
 
-## 🛰️ Active Infrastructure
+## 🚀 Featured Projects
 
-### [SQL-STREAM](https://sql-stream.up.railway.app/)
-*Premium Database Migration Hub*
-- Real-time node-to-node synchronization.
-- AI-Powered index advising and PII masking.
-- Engineering Node design system v4.0.
+### 📱 [PlateGoal — Daily Nutrition & Fasting Companion](https://github.com/chanminko1234/PlateGoal)
+> *A smart daily nutrition tracking, water log, and Intermittent Fasting (IF) companion app.*
 
-### [Engineering Node Hub](https://github.com/chanminko1234)
-*Infrastructure Monitoring*
-- Centralized oversight for all active satellite projects.
-- Real-time telemetry and status monitoring.
+- **Key Highlights**:
+  - **Native Android & iOS Widgets**: 1-Tap Home Screen Fasting toggle with live 60fps ticking chronometer countdown.
+  - **5-Stage Dynamic Mascot Engine**: Context-aware 3D mascot emotion transitions (`hungry`, `workout`, `thirsty`, `sleepy`, `excited`).
+  - **Offline MMKV Persistence**: Zero-latency local data storage layer.
+  - **Burmese & English Localization**: 100% real-time bilingual switching across app and native widgets.
 
 ---
 
-## 💬 Connect to the Cluster
+## 🛠️ Tech Stack & Skills
 
-- **Live Node**: [sql-stream.up.railway.app](https://sql-stream.up.railway.app/)
-- **Engineering Node**: [chanminko1234](https://github.com/chanminko1234)
-- **Dev Cluster**: [Discord Invite](https://discord.gg/qwsG7jYw)
+```
+  Mobile       │ React Native • iOS (Swift / SwiftUI / WidgetKit) • Android (Java / Kotlin / AppWidgets)
+  Frontend     │ TypeScript • JavaScript (ES6+) • HTML5 • Modern CSS / Glassmorphism
+  Backend      │ PHP 8.x • Laravel • PostgreSQL • MySQL • Redis • RESTful APIs
+  State & Ops  │ Zustand • MMKV • Git • GitHub Actions • Docker • Agile Workflow
+```
 
 ---
 
-*Engineered with precision by Chan Min Ko.*
+## 📊 GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=chanminko1234&show_icons=true&theme=tokyonight&count_private=true" alt="Chan Min Ko's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanminko1234&layout=compact&theme=tokyonight&hide=html" alt="Most Used Languages" width="48%" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+- 📧 **Email**: [chanminko10297@gmail.com](mailto:chanminko10297@gmail.com)
+- 💻 **GitHub**: [github.com/chanminko1234](https://github.com/chanminko1234)
+- 📍 **Location**: Thailand
+
+---
+
+*Crafted with precision by Chan Min Ko.*
