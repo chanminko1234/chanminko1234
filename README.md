@@ -1,12 +1,13 @@
 # Hi, I'm Chan Min Ko
 
-### **Founder & Lead Software Engineer** | Location: Thailand
+### **Lead Developer at [Alex International](https://alexinternational.co.th/)** | Location: Thailand
 
 [![GitHub Followers](https://img.shields.io/github/followers/chanminko1234?style=social)](https://github.com/chanminko1234)
+[![Company](https://img.shields.io/badge/Company-Alex_International-EF4444?style=flat&logo=building&logoColor=white)](https://alexinternational.co.th/)
 [![Email](https://img.shields.io/badge/Email-chanminko10297%40gmail.com-0EA5E9?style=flat&logo=gmail&logoColor=white)](mailto:chanminko10297@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Thailand-D97706?style=flat&logo=googlemaps&logoColor=white)](#)
 
-> *"Building high-performance mobile ecosystems, native widgets, and seamless offline-first user experiences that transform everyday health & daily productivity."*
+> *"Lead Developer architecting high-performance mobile ecosystems, native widgets, and seamless offline-first user experiences that transform everyday health & daily productivity."*
 
 ---
 
@@ -15,15 +16,16 @@
 ```typescript
 const chanminko = {
   name: "Chan Min Ko",
-  role: "Founder & Lead Software Engineer",
-  location: "Thailand",
+  role: "Lead Developer",
+  company: "Alex International Co., Ltd. (Thailand)",
+  website: "https://alexinternational.co.th/",
   languages: ["TypeScript", "Swift", "Java", "PHP", "Python"],
   expertise: [
-    "React Native Cross-Platform",
+    "React Native Cross-Platform Architecture",
     "Native iOS WidgetKit & SwiftUI",
     "Native Android AppWidgets & Java/Kotlin",
     "Offline-First MMKV Systems",
-    "Laravel & RESTful Backend Engines"
+    "Laravel & Enterprise Backend Engines"
   ],
   philosophy: "Turning complex user requirements into zero-latency, elegant mobile applications.",
 };
@@ -44,12 +46,13 @@ const chanminko = {
 
 ## About Me
 
-I am a passionate **Lead Software Engineer and Mobile Specialist** crafting high-performance, user-centric mobile applications and web ecosystems. My expertise spans **React Native**, **Native Android (Java/Kotlin)**, **iOS (Swift/SwiftUI)**, **TypeScript**, and **Laravel/PHP**.
+I am a **Lead Developer at Alex International Co., Ltd.** based in Thailand, specializing in high-performance mobile applications and web ecosystems. My expertise spans **React Native**, **Native Android (Java/Kotlin)**, **iOS (Swift/SwiftUI)**, **TypeScript**, and **Laravel/PHP**.
 
+- **Current Role**: Lead Developer at [Alex International Co., Ltd.](https://alexinternational.co.th/) (Thailand)
 - **Mobile Engineering**: Building high-fidelity React Native applications with native iOS & Android AppWidget integrations.
 - **Performance & Architecture**: Designing offline-first architectures, low-latency background sync engines, and 60fps native UI.
-- **Based In**: Thailand
-- **Specializations**: React Native, Native Widgets, Offline State Sync, and Health/Fitness Apps.
+- **Location**: Thailand
+- **Specializations**: Mobile Architecture, Native Widgets, Offline State Sync, and Health/Fitness Apps.
 
 ---
 
@@ -91,6 +94,7 @@ I am a passionate **Lead Software Engineer and Mobile Specialist** crafting high
 
 ## Connect With Me
 
+- **Company**: [Alex International Co., Ltd.](https://alexinternational.co.th/)
 - **Email**: [chanminko10297@gmail.com](mailto:chanminko10297@gmail.com)
 - **GitHub**: [github.com/chanminko1234](https://github.com/chanminko1234)
 - **Location**: Thailand
