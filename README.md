@@ -6,6 +6,37 @@
 [![Email](https://img.shields.io/badge/Email-chanminko10297%40gmail.com-0EA5E9?style=flat&logo=gmail&logoColor=white)](mailto:chanminko10297@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Thailand-D97706?style=flat&logo=googlemaps&logoColor=white)](#)
 
+> *"Building high-performance mobile ecosystems, native widgets, and seamless offline-first user experiences that transform everyday health & daily productivity."*
+
+---
+
+## 💻 Developer Identity & Core Philosophy
+
+```typescript
+const chanminko = {
+  name: "Chan Min Ko",
+  role: "Founder & Lead Software Engineer",
+  location: "Thailand",
+  languages: ["TypeScript", "Swift", "Java", "PHP", "Python"],
+  expertise: [
+    "React Native Cross-Platform",
+    "Native iOS WidgetKit & SwiftUI",
+    "Native Android AppWidgets & Java/Kotlin",
+    "Offline-First MMKV Systems",
+    "Laravel & RESTful Backend Engines"
+  ],
+  philosophy: "Turning complex user requirements into zero-latency, elegant mobile applications.",
+};
+```
+
+---
+
+## 🏆 GitHub Trophy & Achievements
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=chanminko1234&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" alt="Chan Min Ko's GitHub Trophies" />
+</p>
+
 ---
 
 ## 🌟 About Me
@@ -43,10 +74,14 @@ I am a passionate **Lead Software Engineer and Mobile Specialist** crafting high
 
 ---
 
-## 📊 GitHub Analytics
+## 🔥 GitHub Stats & Live Streak
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=chanminko1234&show_icons=true&theme=tokyonight&count_private=true" alt="Chan Min Ko's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanminko1234&theme=tokyonight" alt="GitHub Streak Stats" width="48%" />
+</p>
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanminko1234&layout=compact&theme=tokyonight&hide=html" alt="Most Used Languages" width="48%" />
 </p>
 
