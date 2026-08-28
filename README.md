@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Chan Min Ko
+# Hi, I'm Chan Min Ko
 
-### **Founder & Lead Software Engineer** | 📍 Thailand
+### **Founder & Lead Software Engineer** | Location: Thailand
 
 [![GitHub Followers](https://img.shields.io/github/followers/chanminko1234?style=social)](https://github.com/chanminko1234)
 [![Email](https://img.shields.io/badge/Email-chanminko10297%40gmail.com-0EA5E9?style=flat&logo=gmail&logoColor=white)](mailto:chanminko10297@gmail.com)
@@ -10,7 +10,7 @@
 
 ---
 
-## 💻 Developer Identity & Core Philosophy
+## Developer Identity & Core Philosophy
 
 ```typescript
 const chanminko = {
@@ -31,7 +31,7 @@ const chanminko = {
 
 ---
 
-## 🏆 GitHub Trophy & Achievements
+## GitHub Trophy & Achievements
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=chanminko1234&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" alt="Chan Min Ko's GitHub Trophies" />
@@ -39,20 +39,20 @@ const chanminko = {
 
 ---
 
-## 🌟 About Me
+## About Me
 
 I am a passionate **Lead Software Engineer and Mobile Specialist** crafting high-performance, user-centric mobile applications and web ecosystems. My expertise spans **React Native**, **Native Android (Java/Kotlin)**, **iOS (Swift/SwiftUI)**, **TypeScript**, and **Laravel/PHP**.
 
-- 📱 **Mobile Engineering**: Building high-fidelity React Native applications with native iOS & Android AppWidget integrations.
-- ⚡ **Performance & Architecture**: Designing offline-first architectures, low-latency background sync engines, and 60fps native UI.
-- 📍 **Based In**: Thailand
-- 💬 **Ask me about**: React Native, Native Widgets, Offline State Sync, and Health/Fitness Apps.
+- **Mobile Engineering**: Building high-fidelity React Native applications with native iOS & Android AppWidget integrations.
+- **Performance & Architecture**: Designing offline-first architectures, low-latency background sync engines, and 60fps native UI.
+- **Based In**: Thailand
+- **Specializations**: React Native, Native Widgets, Offline State Sync, and Health/Fitness Apps.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📱 [PlateGoal — Daily Nutrition & Fasting Companion](https://github.com/chanminko1234/PlateGoal)
+### [PlateGoal — Daily Nutrition & Fasting Companion](https://github.com/chanminko1234/PlateGoal)
 > *A smart daily nutrition tracking, water log, and Intermittent Fasting (IF) companion app.*
 
 - **Key Highlights**:
@@ -63,7 +63,7 @@ I am a passionate **Lead Software Engineer and Mobile Specialist** crafting high
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 ```
   Mobile       │ React Native • iOS (Swift / SwiftUI / WidgetKit) • Android (Java / Kotlin / AppWidgets)
@@ -74,7 +74,7 @@ I am a passionate **Lead Software Engineer and Mobile Specialist** crafting high
 
 ---
 
-## 🔥 GitHub Stats & Live Streak
+## GitHub Stats & Live Streak
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=chanminko1234&show_icons=true&theme=tokyonight&count_private=true" alt="Chan Min Ko's GitHub Stats" width="48%" />
@@ -87,11 +87,11 @@ I am a passionate **Lead Software Engineer and Mobile Specialist** crafting high
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
-- 📧 **Email**: [chanminko10297@gmail.com](mailto:chanminko10297@gmail.com)
-- 💻 **GitHub**: [github.com/chanminko1234](https://github.com/chanminko1234)
-- 📍 **Location**: Thailand
+- **Email**: [chanminko10297@gmail.com](mailto:chanminko10297@gmail.com)
+- **GitHub**: [github.com/chanminko1234](https://github.com/chanminko1234)
+- **Location**: Thailand
 
 ---
 
