@@ -58,14 +58,30 @@ I am a **Lead Developer at Alex International Co., Ltd.** based in Thailand, spe
 
 ## Featured Projects
 
-### [PlateGoal — Daily Nutrition & Fasting Companion](https://github.com/chanminko1234/PlateGoal)
+### PlateGoal — Daily Nutrition & Fasting Companion
 > *A smart daily nutrition tracking, water log, and Intermittent Fasting (IF) companion app.*
+
+[![Download on Google Play](https://img.shields.io/badge/Google_Play-Download-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.plategoal&hl=en)
 
 - **Key Highlights**:
   - **Native Android & iOS Widgets**: 1-Tap Home Screen Fasting toggle with live 60fps ticking chronometer countdown.
   - **5-Stage Dynamic Mascot Engine**: Context-aware 3D mascot emotion transitions (`hungry`, `workout`, `thirsty`, `sleepy`, `excited`).
   - **Offline MMKV Persistence**: Zero-latency local data storage layer.
   - **Burmese & English Localization**: 100% real-time bilingual switching across app and native widgets.
+  - **AI Meal Scanner**: Camera-based food recognition powered by Gemini Vision API.
+
+---
+
+### [SQL-STREAM — Real-Time SQL Query Engine](https://github.com/chanminko1234/SQLSTREAM_REPO)
+> *A real-time SQL streaming platform for executing and visualizing live query results.*
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-sql--stream.up.railway.app-6366F1?style=for-the-badge&logo=railway&logoColor=white)](https://sql-stream.up.railway.app)
+[![GitHub](https://img.shields.io/badge/GitHub-SQLSTREAM__REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chanminko1234/SQLSTREAM_REPO)
+
+- **Key Highlights**:
+  - **Real-Time Streaming**: Live SQL query execution with streamed result delivery.
+  - **Modern Web Interface**: Clean, responsive UI for query input and result visualization.
+  - **Railway Deployment**: Zero-downtime cloud deployment on Railway infrastructure.
 
 ---
 
