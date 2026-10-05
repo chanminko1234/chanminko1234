@@ -58,12 +58,11 @@ I am a **Lead Developer at Alex International Co., Ltd.** based in Thailand, spe
 
 ## Featured Projects
 
-### [PlateGoal — Daily Nutrition & Fasting Companion](https://github.com/chanminko1234/PlateGoal)
+### PlateGoal — Daily Nutrition & Fasting Companion
 > *An offline-first daily nutrition tracking, water log, and Intermittent Fasting (IF) companion app available on iOS and Android.*
 
 [![Download on the App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/id6809893188)
 [![Download on Google Play](https://img.shields.io/badge/Google_Play-Download-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.plategoal)
-[![GitHub](https://img.shields.io/badge/GitHub-PlateGoal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chanminko1234/PlateGoal)
 
 - **Key Highlights**:
   - **Apple App Store & Google Play Approved**: Live production builds released on both major app stores.
